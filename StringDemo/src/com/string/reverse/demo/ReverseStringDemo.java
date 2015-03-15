@@ -30,5 +30,4 @@ public class ReverseStringDemo {
 		
 		scanner.close();
 	}
-
 }
